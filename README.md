@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ISE-Engineering / CLOUD / CYBER SECURITY / ETHICAL / 
 - 💞️ I’m looking to collaborate on WHO CAN HIRE ME 
 - 📫 How to reach me ... MAIL ME OR CONNECT WITH ME ON Linkedln 
-.........................officialKT21@gmail.com or (https://www.linkedin.com/in/kaushik-wagh-a64704228/)
 .........................
+officialKT21@gmail.com or (https://www.linkedin.com/in/kaushik-wagh-a64704228/)
 
 
 I am engineering student pursuing my BTECH in jain university,Bangalore. I have storng experience in ethical hacking / data scientist / IOT / AI. Perfect in Java-python-c-c++-php-JS-Aurdino any many programming.
